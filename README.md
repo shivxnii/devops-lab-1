@@ -1,5 +1,4 @@
 # devops-lab1-ci
-
 ENSP461 - DevOps and Automation, Lab 1: DevOps Foundations & Continuous Integration.
 
 This repo contains a small Flask application used to demonstrate a complete
